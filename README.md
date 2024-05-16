@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @NAVIdeveloper
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# About Me
 
-<!---
-NAVIdeveloper/NAVIdeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Qudratillo Salokhiddinov, a backend developer. Known as "One man team", I enjoy sharing my knowledge and experiences through my YouTube channel.
+
+## Contact
+
+- **Email:** pythondarslar@email.com
+- **YouTube:** [@qudratilosalokhiddinov](https://www.youtube.com/qudratilosalokhiddinov)
+- **Instagram:** [@qudratilosalokhiddinov](https://www.instagram.com/qudratillosalokhiddinov/)
